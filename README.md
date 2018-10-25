@@ -1,0 +1,2 @@
+# SlinkyBot
+A Twitch bot.
