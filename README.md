@@ -1,2 +1,2 @@
 # SlinkyBot
-A Twitch bot.
+A dotnet core Twitch bot.
